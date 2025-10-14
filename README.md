@@ -33,20 +33,7 @@ Wallet : MetaMask
 
 Librairie Web3 : Ethers.js
 
-📂 Structure du projet
-AdoptMe/
-│
-├── contracts/           # Smart contracts Solidity
-│   └── AdoptMe.sol
-├── migrations/          # Scripts de déploiement Truffle
-├── client/              # Frontend React
-│   ├── src/
-│   │   ├── App.js       # Composant principal React
-│   │   ├── App.css      # Styles CSS
-│   │   └── contracts/   # ABI générés par Truffle
-│   └── public/          # Fichiers statiques
-├── build/               # Fichiers compilés par Truffle
-└── truffle-config.js    # Configuration Truffle
+<img width="521" height="354" alt="image" src="https://github.com/user-attachments/assets/2bdfc941-4745-4f19-ace0-f62462e4f344" />
 
 ⚡ Installation & Utilisation
 1️⃣ Cloner le projet

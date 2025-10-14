@@ -37,7 +37,7 @@ Librairie Web3 : Ethers.js
 
 ⚡ Installation & Utilisation
 1️⃣ Cloner le projet
-git clone https://github.com/ton-compte/AdoptMe.git
+git clone https://github.com/ghazouabd/AdoptMe.git
 cd AdoptMe
 
 2️⃣ Installer les dépendances

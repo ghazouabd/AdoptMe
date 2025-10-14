@@ -57,7 +57,6 @@ npm install
 
 Ouvrir Ganache (UI ou CLI ganache-cli)
 
-Vérifier que le port est 7545
 
 4️⃣ Déployer le contrat
 

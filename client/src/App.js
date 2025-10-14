@@ -618,7 +618,7 @@ async function findDeployedContractAddress() {
 
             <footer>
                 <div className="container">
-                    <p>&copy; 2024 AdoptMe. Tous droits réservés.</p>
+                    <p>&copy; 2025 AdoptMe. Tous droits réservés.</p>
                 </div>
             </footer>
         </div>

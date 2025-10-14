@@ -94,4 +94,4 @@ L’application sera accessible sur http://localhost:3000
 
 👨‍💻 Auteur
 
-Projet développé par Bedoui Ghazoua (Étudiant en Cybersécurité & Blockchain).
+Projet développé par Bedoui Ghazoua .
